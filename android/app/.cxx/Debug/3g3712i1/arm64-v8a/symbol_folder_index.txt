@@ -1,0 +1,1 @@
+C:\laragon\www\getxproject\build\app\intermediates\cxx\Debug\3g3712i1\obj\arm64-v8a
